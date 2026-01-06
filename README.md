@@ -7,6 +7,6 @@ Approach
 - Created an interactive map using Folium
 - Applied marker clustering to detect dense regions
 
-Conclusion
+Conclusion:
 Restaurants are densely clustered in urban and metropolitan regions,
 indicating higher commercial and customer activity in these areas.
