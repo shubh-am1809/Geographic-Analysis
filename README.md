@@ -1,8 +1,8 @@
-Objective
+Objective:
 Plot restaurant locations using latitude and longitude and identify
 geographic patterns or clusters.
 
-Approach
+Approach:
 - Extracted latitude and longitude values
 - Created an interactive map using Folium
 - Applied marker clustering to detect dense regions
