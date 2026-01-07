@@ -1,3 +1,5 @@
+Geographic Analysis
+
 Objective:
 Plot restaurant locations using latitude and longitude and identify
 geographic patterns or clusters.
